@@ -28,6 +28,9 @@ This project presents an end-to-end clustering pipeline for customer segmentatio
 - **Reporting**: PPT summary with statistical highlights
 
 ---
+![Screenshot 2025-05-14 121529](https://github.com/user-attachments/assets/6e954ead-f081-410d-961e-3fb6996935dd)
+
+![Screenshot 2025-05-14 121517](https://github.com/user-attachments/assets/d5268457-1b7e-4efc-bb94-247f9e122622)
 
 ## 🔍 Key Features Used for Clustering
 
