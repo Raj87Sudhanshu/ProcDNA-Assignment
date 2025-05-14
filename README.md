@@ -115,7 +115,7 @@ Outliers were either removed or capped depending on their impact.
 1. Clone the repo:
    ```bash
    git clone https://github.com/Raj87Sudhanshu/ProcDNA-Assignment.git
-   cd customer-segmentation
+   cd ProcDNA_ass
 
 ## Install dependencies:
 pip install -r requirements.txt
