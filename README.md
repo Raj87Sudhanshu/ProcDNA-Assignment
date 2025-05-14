@@ -118,7 +118,7 @@ Outliers were either removed or capped depending on their impact.
 1. Clone the repo:
    ```bash
    git clone https://github.com/Raj87Sudhanshu/ProcDNA-Assignment.git
-   cd ProcDNA_ass
+   cd ProcDNA-Assignment
 
 ## Install dependencies:
 pip install -r requirements.txt
