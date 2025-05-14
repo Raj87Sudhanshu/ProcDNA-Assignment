@@ -103,15 +103,15 @@ Outliers were either removed or capped depending on their impact.
 
 ## 📂 Project Structure
 
-├── clustering_pipeline.ipynb # Jupyter notebook with code and results
-├── data/
-│ └── Clustering_Data.ftr # Input dataset
-├── output/
-│ ├── cluster_summary.xlsx # Account-cluster mapping
-│ └── cluster_plot.png # 2D PCA visualization
-├── presentation/
-│ └── Customer_Clustering.pptx # Final presentation with insights
-└── README.md # Project documentation
+1. **clustering_pipeline.ipynb # Jupyter notebook with code and results**
+2. **data/**
+   2a. ***Clustering_Data.ftr # Input dataset***
+3. **output/**
+   3a. ***cluster_summary.xlsx # Account-cluster mapping***
+   3b. ***cluster_plot.png # 2D PCA visualization***
+4. **presentation/**
+   4a. ***Customer_Clustering.pptx # Final presentation with insights***
+5. **README.md # Project documentation**
 
 ## 🚀 How to Run
 
