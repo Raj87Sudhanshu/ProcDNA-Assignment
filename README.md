@@ -100,3 +100,28 @@ Outliers were either removed or capped depending on their impact.
 
 ## 📂 Project Structure
 
+├── clustering_pipeline.ipynb # Jupyter notebook with code and results
+├── data/
+│ └── Clustering_Data.ftr # Input dataset
+├── output/
+│ ├── cluster_summary.xlsx # Account-cluster mapping
+│ └── cluster_plot.png # 2D PCA visualization
+├── presentation/
+│ └── Customer_Clustering.pptx # Final presentation with insights
+└── README.md # Project documentation
+
+## 🚀 How to Run
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Raj87Sudhanshu/ProcDNA-Assignment.git
+   cd customer-segmentation
+
+# Install dependencies:
+
+bash
+pip install -r requirements.txt
+Run the notebook or Python scripts:
+
+bash
+jupyter notebook clustering_pipeline.ipynb
