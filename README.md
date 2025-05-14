@@ -118,10 +118,9 @@ Outliers were either removed or capped depending on their impact.
    cd customer-segmentation
 
 ## Install dependencies:
-
 bash
-### pip install -r requirements.txt
-### Run the notebook or Python scripts:
+pip install -r requirements.txt
 
+## Run the notebook or Python scripts:
 bash
-### jupyter notebook clustering_pipeline.ipynb
+jupyter notebook clustering_pipeline.ipynb
